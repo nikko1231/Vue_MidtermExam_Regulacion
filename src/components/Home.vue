@@ -6,8 +6,8 @@
 
     <div class="info">
       <h1>Welcome</h1>
-      <p>Name: Harvey Quibol</p>
-      <p>Program: BSIT</p>
+      <p>Name: Nikko Regulacion</p>
+      <p>Program: BSIT-3</p>
     </div>
   </div>
 </template>
